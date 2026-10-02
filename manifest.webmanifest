@@ -1,0 +1,25 @@
+{
+  "name": "Electrical Operations \u2014 PRO1",
+  "short_name": "Electrical Ops",
+  "description": "PRO1 \u2014 Twellium Electrical Operations",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f7f9f8",
+  "theme_color": "#5f8f7c",
+  "icons": [
+    {
+      "src": "./icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
